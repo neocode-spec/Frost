@@ -1,0 +1,11 @@
+{
+  "name": "frost-search-server",
+  "version": "1.0.0",
+  "main": "frost-server.js",
+  "scripts": {
+    "start": "node frost-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
